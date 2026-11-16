@@ -1,0 +1,687 @@
+[
+  {
+    "id": "brunch-debate",
+    "category": "Everyday fun",
+    "question": "What breakfast ingredient could spark the most dramatic group brunch debate?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Eggs or omelette",
+        "score": 24,
+        "synonyms": []
+      },
+      {
+        "text": "Onion",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Cheese",
+        "score": 15,
+        "synonyms": []
+      },
+      {
+        "text": "Chilli and spices",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "Tomato",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Ketchup",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "Bread or pav",
+        "score": 9,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "kitchen-habits",
+    "category": "Everyday fun",
+    "question": "Which harmless kitchen habit could spark a lively group-chat debate?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Taking the last snack",
+        "score": 23,
+        "synonyms": []
+      },
+      {
+        "text": "Leaving dishes in the sink",
+        "score": 20,
+        "synonyms": []
+      },
+      {
+        "text": "Making chai too weak or strong",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Leaving food uncovered",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "Using someone else's shelf",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Cooking smells",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "Taking the last onion",
+        "score": 7,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "family-question",
+    "category": "Friend-group fun",
+    "question": "Which everyday family question deserves a dramatic recap later?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "When are you getting married?",
+        "score": 22,
+        "synonyms": []
+      },
+      {
+        "text": "What do you do for work?",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "How much do you earn?",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Who ate the last sweet?",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Why are you late?",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Why are you being compared to a cousin?",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Why are you on your phone?",
+        "score": 8,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "soft-launch",
+    "category": "Group-chat mysteries",
+    "question": "What tiny clue makes friends suspect someone is soft-launching a crush?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "A cropped shoulder or hand in a photo",
+        "score": 21,
+        "synonyms": []
+      },
+      {
+        "text": "A new profile picture",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "A suspicious song lyric on their story",
+        "score": 15,
+        "synonyms": []
+      },
+      {
+        "text": "Suddenly having weekend plans",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Guarding their phone",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Starting to say ‘we’",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "Liking every old photo",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "A restaurant photo with two drinks",
+        "score": 8,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "one-am-emergency",
+    "category": "Twenty-something logic",
+    "question": "Your friend announces an emergency at 1 a.m. What is it most likely to be?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Their phone is at 1%",
+        "score": 23,
+        "synonyms": []
+      },
+      {
+        "text": "Food delivery is delayed",
+        "score": 19,
+        "synonyms": []
+      },
+      {
+        "text": "Someone left them on read",
+        "score": 17,
+        "synonyms": []
+      },
+      {
+        "text": "The charger has disappeared",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "There are no snacks",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "They cannot fall asleep",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "The rideshare is in the wrong place",
+        "score": 6,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "shared-space",
+    "category": "Everyday fun",
+    "question": "Which everyday object would someone guard as if it were the most valuable thing in the house?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Phone charger",
+        "score": 23,
+        "synonyms": []
+      },
+      {
+        "text": "The good snacks",
+        "score": 19,
+        "synonyms": []
+      },
+      {
+        "text": "Air-conditioner remote",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Favourite blanket",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Coffee mug",
+        "score": 11,
+        "synonyms": []
+      },
+      {
+        "text": "Bathroom shelf",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Water bottle",
+        "score": 7,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "desi-wedding-sidequest",
+    "category": "Friend-group fun",
+    "question": "What desi-wedding side quest could trap your friend group for another two hours?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Taking one more group photo",
+        "score": 20,
+        "synonyms": []
+      },
+      {
+        "text": "An auntie interview",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Finding the missing shoe",
+        "score": 15,
+        "synonyms": []
+      },
+      {
+        "text": "Waiting in the food line",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Getting recruited to dance",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "Locating a cousin",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Waiting for the ride",
+        "score": 10,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "leaving-in-five",
+    "category": "Party-night logic",
+    "question": "What makes a friend say ‘I’m leaving in five’ and then stay another hour?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "The gossip gets good",
+        "score": 23,
+        "synonyms": []
+      },
+      {
+        "text": "Dessert appears",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Their favourite song comes on",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Someone says ‘one more photo’",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "A friend finally arrives",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Their ride is late",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "Their phone is still charging",
+        "score": 8,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "household-task",
+    "category": "Friend-group fun",
+    "question": "Which ordinary household task feels most challenging?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Finding the right lid for a container",
+        "score": 22,
+        "synonyms": []
+      },
+      {
+        "text": "Folding a fitted sheet",
+        "score": 19,
+        "synonyms": []
+      },
+      {
+        "text": "Opening the pressure cooker",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Cleaning the mixer jar",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "Identifying the mystery fridge container",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Untangling the charger drawer",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Choosing the right dabba",
+        "score": 8,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "group-chat-controversy",
+    "category": "Group-chat mysteries",
+    "question": "If your group chat became a reality-show episode, what would the first controversy be?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "A screenshot got shared",
+        "score": 23,
+        "synonyms": []
+      },
+      {
+        "text": "Someone replied to the wrong chat",
+        "score": 19,
+        "synonyms": []
+      },
+      {
+        "text": "A message was left on read",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "A message was deleted",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "An emoji was misinterpreted",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "A voice note was way too long",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "The invite list caused drama",
+        "score": 7,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "desi-snack-debate",
+    "category": "Friend-group fun",
+    "question": "Which desi snack or comfort food could start the most intense friend-group ranking debate?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Biryani",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Pani puri",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Samosa",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Dosa",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "Chai",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Momos",
+        "score": 11,
+        "synonyms": []
+      },
+      {
+        "text": "Vada pav",
+        "score": 9,
+        "synonyms": []
+      },
+      {
+        "text": "Jalebi",
+        "score": 7,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "party-dinner-plot-twist",
+    "category": "Friend-group fun",
+    "question": "What could turn a quick group dinner into a full movie plot twist?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "The reservation is missing",
+        "score": 22,
+        "synonyms": []
+      },
+      {
+        "text": "The cake has the wrong name",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Someone makes a surprise speech",
+        "score": 15,
+        "synonyms": []
+      },
+      {
+        "text": "The outfit gets stained",
+        "score": 13,
+        "synonyms": []
+      },
+      {
+        "text": "The gift is a prank",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "The cake arrives very late",
+        "score": 11,
+        "synonyms": []
+      },
+      {
+        "text": "No one can find parking",
+        "score": 9,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "party-five-minutes-away",
+    "category": "Party-night logic",
+    "question": "When a friend texts ‘five minutes away’ to a desi party, what are they probably doing?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Still choosing an outfit",
+        "score": 22,
+        "synonyms": []
+      },
+      {
+        "text": "Still in the shower",
+        "score": 19,
+        "synonyms": []
+      },
+      {
+        "text": "Trying to find a ride",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Watching one last reel",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Looking for their keys",
+        "score": 11,
+        "synonyms": []
+      },
+      {
+        "text": "Still getting ready at home",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Making a snack for the road",
+        "score": 8,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "trip-room-rules",
+    "category": "Friends on holiday",
+    "question": "What tiny room rule can turn a group trip into a reality show?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Who controls the A/C",
+        "score": 20,
+        "synonyms": []
+      },
+      {
+        "text": "Who gets the bathroom first",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "The only charger",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Who took the good snacks",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "What time the lights go off",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Who borrowed the towel",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Who has the room key",
+        "score": 10,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "id": "playful-callout",
+    "category": "Everyday fun",
+    "question": "What harmless habit could get a friend playfully called out by the group?",
+    "source": "Original prompt; answer choices and point values are fictional",
+    "sampleSize": null,
+    "scoreLabel": "Fictional party poll · for fun",
+    "answers": [
+      {
+        "text": "Spoiling a season finale",
+        "score": 21,
+        "synonyms": []
+      },
+      {
+        "text": "Taking the last samosa",
+        "score": 18,
+        "synonyms": []
+      },
+      {
+        "text": "Making everyone wait",
+        "score": 16,
+        "synonyms": []
+      },
+      {
+        "text": "Changing the playlist",
+        "score": 14,
+        "synonyms": []
+      },
+      {
+        "text": "Borrowing a charger and vanishing",
+        "score": 12,
+        "synonyms": []
+      },
+      {
+        "text": "Sending a 4-minute voice note",
+        "score": 10,
+        "synonyms": []
+      },
+      {
+        "text": "Picking karaoke first",
+        "score": 9,
+        "synonyms": []
+      }
+    ]
+  }
+]
